@@ -16,7 +16,7 @@ export default function Calculator(){
 
   const Links = [
   'https://www.ucsfhealth.org/education/tips-for-staying-healthy',
-  'https://www.ucsfhealth.org/education/tips-for-staying-healthy',
+  'https://www.ucsfhealth.oarg/education/tips-for-staying-healthy',
   'https://www.ucsfhealth.org/education/tips-for-staying-healthy',
   'https://www.ucsfhealth.org/education/tips-for-staying-healthy',
   'https://www.ucsfhealth.org/education/tips-for-staying-healthy',
